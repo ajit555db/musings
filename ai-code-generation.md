@@ -22,6 +22,8 @@ Here’s a simplified journey to mastering AI code generation:
 - **How it works**: These “custom models” or “enterprise solutions” act like private AI servers, tailoring code to your unique environment.
 - **Use case**: Perfect for projects with internal APIs or sensitive data.
 
+Note : [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) - MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.
+
 ### 5. AI Agent Teams (The Cutting Edge)
 - **What it is**: Multiple AI agents with specialized roles (e.g., coding, testing, database design) collaborate 24/7, managing your project via version control.
 - **Reality check**: This is experimental, mostly used by tech giants like Google or Microsoft, but it hints at the future.
