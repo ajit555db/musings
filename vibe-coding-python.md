@@ -66,7 +66,8 @@ categories as keys and the total amount spent in each category as values.
 Mention any limitations or special cases to consider:
 
 ```
-Some transactions may be ambiguous or uncategorizable. These should be placed in an "Other" category. The function should handle missing fields in the transaction data gracefully.
+Some transactions may be ambiguous or uncategorizable. These should be placed
+in an "Other" category. The function should handle missing fields in the transaction data gracefully.
 ```
 
 ### 5. Examples (Optional but Helpful)
