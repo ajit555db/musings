@@ -38,7 +38,8 @@ This guide will help you master the art of Python vibe coding without requiring 
 Begin by establishing the broader context of your project:
 
 ```
-I'm building a personal finance tracking application that helps users monitor their spending habits across different categories.
+I'm building a personal finance tracking application
+that helps users monitor their spending habits across different categories.
 ```
 
 ### 2. Specific Requirements
@@ -46,7 +47,8 @@ I'm building a personal finance tracking application that helps users monitor th
 Clearly state what you want the code to accomplish:
 
 ```
-I need a function that can analyze a user's transactions, categorize them (groceries, utilities, entertainment, etc.), and calculate monthly spending per category.
+I need a function that can analyze a user's transactions, categorize them
+(groceries, utilities, entertainment, etc.), and calculate monthly spending per category.
 ```
 
 ### 3. Input/Output Specifications
@@ -54,7 +56,9 @@ I need a function that can analyze a user's transactions, categorize them (groce
 Describe the data your code will work with and what it should produce:
 
 ```
-The function should take a list of transaction records, where each record has a date, amount, description, and vendor. It should return a dictionary with categories as keys and the total amount spent in each category as values.
+The function should take a list of transaction records, where each record has
+a date, amount, description, and vendor. It should return a dictionary with
+categories as keys and the total amount spent in each category as values.
 ```
 
 ### 4. Constraints and Edge Cases
