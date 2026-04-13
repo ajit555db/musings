@@ -1,5 +1,8 @@
 # From Parents to Child: The DNA Memory Archive
 
+**TL;DR**  
+I’ve always wondered why some people get talents and even memories of unknown places almost naturally. In this article I explain how our DNA might act like a pre-loaded computer hard drive — quietly passing down skills, abilities, and faint ancestral echoes from parents and earlier generations. Using simple examples, twin studies, epigenetics, and real Indian stories (like PV Sindhu’s family and Shanti Devi’s case), I show why talent often runs in families and why Hindu ideas of rebirth might have a surprising biological side.
+
 I have often wondered why most people have to work really hard to build skills and intelligence, while for a few lucky ones, these things seem to come naturally. People usually say it’s “genetics.” I also notice how children of talented parents often turn out talented too — in cricket, music, studies, or other fields. Even more interesting are those rare times when someone remembers details about a place, a time, or an event they have never personally experienced. In Hindu philosophy, we call this connection to rebirth (*punarjanma*) or *samskaras* — the impressions carried over from previous lives.
 
 I believe many of these answers are hidden in our genes. After all, our brain stores memories in neurons, and those neurons are built according to instructions written in our DNA. Pause for a second and think of a simple example from everyday life: Imagine a brand-new computer with a fresh operating system. You can make it smart by installing apps and writing programs. But what if the computer came with a hard disk that already had all the apps and programs loaded? It would feel intelligent the moment you switched it on!
